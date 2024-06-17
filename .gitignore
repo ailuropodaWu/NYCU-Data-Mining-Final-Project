@@ -1,0 +1,7 @@
+*.csv
+*.pth
+*.tsv
+*.vec
+archieve
+.vscode
+catboost_info
